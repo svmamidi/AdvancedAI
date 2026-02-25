@@ -1,2 +1,2 @@
 # AdvancedAI
- AI content is in this Repositary
+ AI content is in this Repositary.
